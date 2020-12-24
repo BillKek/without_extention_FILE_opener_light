@@ -1,6 +1,6 @@
-# without_extention_FILE_opener_light
+# without_extension_FILE_opener_light
 Light version of Michael Martin bat-file. 
-This scrypt program setup association of files without extention to open with notepad. 
+This script program setup association of files without extension to open with notepad. 
 Program is so light, so it's probably PD-trivial. 
 Windows only.
 
